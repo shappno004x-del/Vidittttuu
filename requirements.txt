@@ -1,0 +1,5 @@
+Flask==2.3.2
+requests==2.31.0
+protobuf==4.25.0
+pycryptodome==3.19.0
+six==1.16.0
